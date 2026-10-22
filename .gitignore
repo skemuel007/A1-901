@@ -1,0 +1,29 @@
+# Local credentials
+.env
+**/.env
+
+# Conda environments created inside the repository
+.conda/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# .NET build output
+**/bin/
+**/obj/
+TestResults/
+*.user
+*.suo
+
+# IDE and operating-system files
+.vs/
+.idea/
+.DS_Store
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+graft/

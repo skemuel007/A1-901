@@ -20,6 +20,9 @@ TestResults/
 *.user
 *.suo
 
+# Generated image samples
+Foundry-GenAI/GettingStarted/Image_Generation/output*.png
+
 # IDE and operating-system files
 .vs/
 .idea/
